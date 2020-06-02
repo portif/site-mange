@@ -15,5 +15,5 @@ Sigamos então para o roteiro:
 1. Crie, no GitLab, um repositório cujo nome deverá ser site-mange. Por questão de comodidade, recomenda-se a clonagem de um repositório já pronto (Vide esse exemplo).
 2. Acesse, na Mange, a aplicação [Publicar meu site](https://mange.ifrn.edu.br/app/manga/site/)
 
-Finalmente, se você seguiu o roteiro acima, poderá exclur este arquivo (*README.md*).
+Finalmente, se você seguiu o roteiro acima, poderá excluir este arquivo (*README.md*).
 
